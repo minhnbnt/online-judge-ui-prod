@@ -1,0 +1,1 @@
+export const env={"PUBLIC_API_BASE_URL":"http://localhost:8000/api/v1","PUBLIC_API_PAGE_SIZE":"20"}

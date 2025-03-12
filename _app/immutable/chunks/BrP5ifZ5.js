@@ -1,0 +1,1 @@
+import{i as r,P as i}from"./D-zHGvuz.js";async function p(s,t){const a={params:{page:t}},n=await r.get(s,a),{count:e,results:c}=n.data,o=parseInt(i);return{nPages:Math.ceil(e/o),results:c}}export{p as f};
