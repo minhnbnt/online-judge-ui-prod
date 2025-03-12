@@ -1,1 +1,0 @@
-import{i as t}from"../chunks/C3JyOOO9.js";import{g as o}from"../chunks/BlL8gr9j.js";const e=!1;async function a(){if(await t()){await o("/problems");return}await o("/login")}const s=Object.freeze(Object.defineProperty({__proto__:null,load:a,ssr:e},Symbol.toStringTag,{value:"Module"}));export{s as universal};
